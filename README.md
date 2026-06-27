@@ -1,7 +1,7 @@
 ## Hi, I'am ARPUTHARAJ
 
 # About Me ;
-Hey there I'am ARPUTHARAJ, am pursuing my Bachelor Degree  at SRM institute science and technology . with a passion coding and crafting innovative sloutions . This README is my playground to showcase my journey skills, and asipration.let's dive in!
+Hey there I'am ARPUTHARAJ, i am Completed my Bachelor Degree  at SRM institute science and technology . with a passion coding and crafting innovative sloutions . This README is my playground to showcase my journey skills, and asipration.let's dive in!
 
 # Skills & interests:
 - Programming Languages: Python, SQL
